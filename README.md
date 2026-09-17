@@ -1,3 +1,31 @@
 # Ha Releases
 
-Official release files for Ha.
+Ha 桌面端官方安装包与自动更新仓库。
+
+## 下载与安装
+
+请前往右侧 **Releases**，打开标有 **Latest** 的最新版本，下载：
+
+- `Ha_Setup_版本号.exe`
+
+下载后直接运行安装程序即可。
+
+## 自动更新文件
+
+以下文件供软件自动更新使用，普通用户无需手动下载：
+
+- `latest.yml`
+- `.blockmap`
+- `update-policy.json`
+
+## 系统要求
+
+- Windows 10 / Windows 11
+- 64 位系统
+- 使用采集功能时需要保持网络连接
+
+## 注意事项
+
+- 请只从本仓库的 Releases 页面下载安装包。
+- 本仓库仅存放安装包和升级文件，不存放软件源码。
+- 软件数据、登录资料和采集结果仅保存在用户本机。
